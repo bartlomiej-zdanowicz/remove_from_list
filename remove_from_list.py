@@ -1,8 +1,8 @@
 
 
 
-list_duplicate = ["a", "b", "c", "a", "d", "e", "b", "f", "a", 1, [1, 2], "b", 1, 10, [1, 2]]
-list_duplicate_2 = ["a", "b", "c", "a", "d", "e", "b", "f", "a", 1, [1, 2], "b", 1, 10, [1, 2]]  # Temp list to view in print
+list_duplicate = ["a", "b", "c", "a", "d", "e", "b", "f", "a", 1, [1, 2], "b", 1, 10, [1, 2], "element", "element_2"]
+list_duplicate_2 = ["a", "b", "c", "a", "d", "e", "b", "f", "a", 1, [1, 2], "b", 1, 10, [1, 2], "element", "element_2"] # Temp list to view in print
 
 list_not_duplicate = []
 
